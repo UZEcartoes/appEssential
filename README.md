@@ -22,5 +22,5 @@ Endpoints da BIZ :
 
 # Dúvidas e Acesso
 
-Para o caso de dúvidas e acessoa às credenciais entre em contato conosco através do link abaixo : 
+Para o caso de dúvidas e acesso às credenciais entre em contato conosco através do link abaixo : 
 - https://app.pipefy.com/public/form/fHSm6iab
