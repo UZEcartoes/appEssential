@@ -1,6 +1,10 @@
 # Integração APP Essential
 
-Neste documento serão mostradas algumas operações que podem ser feitar utilizando a API da BIZ e os dados que retornam.
+Neste documento serão mostradas algumas das operações que podem ser feitas utilizando a API da BIZ.
+
+<h2>Documentação </h2>
+
+A documentação da API pode ser encontrada neste link : https://code.biz.com.br/api-details#api=card
 
 <h2>Meu Cadastro </h2>
 
