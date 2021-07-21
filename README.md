@@ -20,11 +20,7 @@ Endpoints da BIZ :
 - - https://code.biz.com.br/api-details#api=card&operation=get-accountid
 - - https://code.biz.com.br/api-details#api=invoice&operation=get-accountid-current
 
-<h2>Últimas Transações </h2>
+# Dúvidas e Acesso
 
-Endpoint da BIZ : https://code.biz.com.br/api-details#api=card&operation=get-accountid-virtualcard
-
-# Dúvidas e Documentação
-
-Para o caso de dúvidas e solicitação da documentação entre em contato conosco através do link abaixo : 
+Para o caso de dúvidas e acessoa às credenciais entre em contato conosco através do link abaixo : 
 - https://app.pipefy.com/public/form/fHSm6iab
