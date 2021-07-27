@@ -13,12 +13,11 @@ Dados de criação do Usuário:
 
 Solicite os dados de autenticação através deste link : https://app.pipefy.com/public/form/fHSm6iab
 
-Após a criação do usuário, o desenvolvedor deverá consumir a API abaixo passando a chave 'Subscription Key' para gerar o Token, após o token gerado que poderá consumir qualquer API. <br> <br>
+<h2>Utilização da API </h2>
+
+Após a criação do usuário, o desenvolvedor deverá consumir a API abaixo passando a chave 'Subscription Key', que é recebida após a criação do usuário, para gerar o Token. Após o token ter sido gerado, o desenvolvedor poderá consumir qualquer API.
+
 Link da API : https://code.biz.com.br/api-details#api=authentication&operation=post-login
-
-Obs.: Subscription Key é passada juntamente com a criação do usuário.
-
-
 
 <h2>Documentação </h2>
 
